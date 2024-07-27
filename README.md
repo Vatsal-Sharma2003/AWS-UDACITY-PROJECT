@@ -1,4 +1,4 @@
-# Introducing-GenerativeAI-with-AWS
+# Introducing-GenerativeAI-with-AWS-UDACITY
 
 ## Capstone Project: Building a Medical Domain Expert Model with Meta LlaMA 2 on AWS SageMaker JumpStart
 
